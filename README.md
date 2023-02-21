@@ -5,8 +5,8 @@ this is a repo for lab 6
 This lab is for Seán O'Rourke, Ryan Novak, Harrison Alexander  
 
 Owned by Seán O'Rourke, contributed to by Ryan Novak and Harrison Alexander
-
-
+  
+  
 Our python program
 
 1) takes someone's name
